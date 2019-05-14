@@ -1,2 +1,12 @@
-# DjangoRestTpp
-来自老荣的有关影院项目
+# DjangoRESTTpp
+
+多端应用
+
+## Admin
+后台管理
+
+## Cinema
+影院
+
+## Viewer
+观影者
